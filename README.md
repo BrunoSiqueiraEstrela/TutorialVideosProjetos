@@ -1,6 +1,6 @@
 # TutorialVideosProjetos
 
-Repositórios de tutoriais finalizados
+Repositórios de tutoriais 
 
 
 
